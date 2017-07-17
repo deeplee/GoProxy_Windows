@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: qHB1h1PV/FZRAx1NMeYOqA
+! Checksum: p0Qs1hlA5cDbTt2mYp/HiQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 23 Jun 2017 06:53:11 -0400
+! Last Modified: Sun, 16 Jul 2017 21:54:51 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -49,6 +49,7 @@
 |http://img.dlsite.jp/
 ||dm530.net
 share.dmhy.org
+@@|https://share.dmhy.org
 ||dmm.co.jp
 |http://www.dmm.com/netgame
 ||eesti.ee
@@ -129,6 +130,11 @@ share.dmhy.org
 |http://www.nbc.com/live
 ||neo-miracle.com
 ||netflix.com
+||nflximg.com
+||nflximg.net
+||nflxext.com
+||nflxso.net
+||nflxvideo.net
 |http://mo.nightlife141.com
 ||nordstrom.com
 ||nordstromimage.com
@@ -176,6 +182,7 @@ share.dmhy.org
 ||tryheart.jp
 ||turntable.fm
 ||twerkingbutt.com
+||ulop.net
 ||vegasred.com
 ||vevo.com
 ||vip-enterprise.com
@@ -1272,8 +1279,8 @@ bunbunhk.com
 .businessinsider.com/internet-outages-reported-in-north-korea-2014
 .businessinsider.com/iphone-6-is-approved-for-sale-in-china-2014
 .businessinsider.com/nfl-announcers-surface-tablets-2014
+.businessinsider.com/panama-papers
 .businessinsider.com/umbrella-man-hong-kong-2014
-|http://static*.businessinsider.com/
 |http://www.businessinsider.com.au/*
 .businessweek.com
 .busu.org/news
@@ -2280,6 +2287,7 @@ whitebear.freebearblog.org
 .free-hada-now.org
 freeilhamtohti.org
 .freekwonpyong.org
+||saveliuxiaobo.com
 .freelotto.com
 ||freelotto.com
 freeman2.com
@@ -2532,7 +2540,7 @@ gfbv.de
 ||gfsale.com
 gfw.org.ua
 .gfw.press
-|http://gfw.press
+||gfw.press
 .ggssl.com
 ||ggssl.com
 ||ghost.org
@@ -3038,6 +3046,7 @@ hizb-ut-tahrir.org
 .hk-pub.com/forum
 |http://hk-pub.com
 .hk01.com
+||hk01.com
 .hk32168.com
 ||hk32168.com
 ||hkacg.com
@@ -3670,6 +3679,8 @@ listorious.com
 .liuhanyu.com
 .liujianshu.com
 ||liujianshu.com
+.liuxiaobo.net
+|http://liuxiaobo.net
 liuxiaotong.com
 ||liuxiaotong.com
 .livedoor.jp
@@ -3940,6 +3951,8 @@ mp3ye.eu
 mpfinance.com
 mpinews.com
 mponline.hk
+.mqxd.org
+|http://mqxd.org
 mrtweet.com
 ||mrtweet.com
 news.hk.msn.com
@@ -5933,6 +5946,7 @@ voagd.com
 voachinese.com
 ||voachinese.com
 .voanews.com
+||voanews.com
 voatibetan.com
 ||voatibetan.com
 .voatibetanenglish.com
@@ -6224,6 +6238,7 @@ worldjournal.com
 |http://*.wordpress.com
 ||cnbbnews.wordpress.com
 ||chenshan20042005.wordpress.com
+||hkanews.wordpress.com
 ||jobnewera.wordpress.com
 ||sujiatun.wordpress.com
 ||wp.com
@@ -6491,7 +6506,8 @@ zhongguotese.net
 ||zhongguotese.net
 ||zhongmeng.org
 ||zhreader.com
-zhuangbi.me/account/login/url-Lw==
+.zhuangbi.me
+||zhuangbi.me
 .zhuanxing.cn
 ||zhuatieba.com
 zhuichaguoji.org
