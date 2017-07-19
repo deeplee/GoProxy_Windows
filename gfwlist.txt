@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: p0Qs1hlA5cDbTt2mYp/HiQ
+! Checksum: MDMg9oupPncqQ3xENrwknQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 16 Jul 2017 21:54:51 -0400
+! Last Modified: Wed, 12 Jul 2017 22:45:42 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -49,7 +49,6 @@
 |http://img.dlsite.jp/
 ||dm530.net
 share.dmhy.org
-@@|https://share.dmhy.org
 ||dmm.co.jp
 |http://www.dmm.com/netgame
 ||eesti.ee
@@ -130,11 +129,6 @@ share.dmhy.org
 |http://www.nbc.com/live
 ||neo-miracle.com
 ||netflix.com
-||nflximg.com
-||nflximg.net
-||nflxext.com
-||nflxso.net
-||nflxvideo.net
 |http://mo.nightlife141.com
 ||nordstrom.com
 ||nordstromimage.com
@@ -182,7 +176,6 @@ share.dmhy.org
 ||tryheart.jp
 ||turntable.fm
 ||twerkingbutt.com
-||ulop.net
 ||vegasred.com
 ||vevo.com
 ||vip-enterprise.com
@@ -2287,7 +2280,6 @@ whitebear.freebearblog.org
 .free-hada-now.org
 freeilhamtohti.org
 .freekwonpyong.org
-||saveliuxiaobo.com
 .freelotto.com
 ||freelotto.com
 freeman2.com
@@ -3679,8 +3671,6 @@ listorious.com
 .liuhanyu.com
 .liujianshu.com
 ||liujianshu.com
-.liuxiaobo.net
-|http://liuxiaobo.net
 liuxiaotong.com
 ||liuxiaotong.com
 .livedoor.jp
@@ -3951,8 +3941,6 @@ mp3ye.eu
 mpfinance.com
 mpinews.com
 mponline.hk
-.mqxd.org
-|http://mqxd.org
 mrtweet.com
 ||mrtweet.com
 news.hk.msn.com
@@ -5946,7 +5934,6 @@ voagd.com
 voachinese.com
 ||voachinese.com
 .voanews.com
-||voanews.com
 voatibetan.com
 ||voatibetan.com
 .voatibetanenglish.com
@@ -6238,7 +6225,6 @@ worldjournal.com
 |http://*.wordpress.com
 ||cnbbnews.wordpress.com
 ||chenshan20042005.wordpress.com
-||hkanews.wordpress.com
 ||jobnewera.wordpress.com
 ||sujiatun.wordpress.com
 ||wp.com
