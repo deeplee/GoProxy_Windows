@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: CpODAqC+5sLcrz89kFp/Dg
+! Checksum: /W4V6fqlZO1fy68IdJzeRQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 28 Aug 2017 08:20:33 -0400
+! Last Modified: Wed, 30 Aug 2017 09:03:46 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -450,6 +450,11 @@ d3c33hcgiwev3.cloudfront.net
 .from-pr.com
 .is-a-hunter.com
 
+!!---Dynu---
+.dynu.com
+.dynu.net
+.freeddns.org
+
 !!---Facebook---
 ||facebook.br
 .facebook.com
@@ -621,7 +626,9 @@ blogspot.com
 ||picasaweb.com
 ||polymer-project.org
 ||questvisual.com
-||recaptcha.net
+||api.recaptcha.net
+||api-secure.recaptcha.net
+||api-verify.recaptcha.net
 ||redhotlabs.com
 ||registry.google
 ||savethedate.foo
@@ -1175,6 +1182,7 @@ bjzc.org
 .blacklogic.com
 .blackvpn.com
 ||blackvpn.com
+blewpass.com
 tor.blingblingsquad.net
 .blinkx.com
 ||blinkx.com
@@ -1261,6 +1269,7 @@ boyangu.com
 ||break.com
 breakgfw.com
 ||breakgfw.com
+breaking911.com
 .breakingtweets.com
 ||breakingtweets.com
 ||breakwall.net
@@ -1667,6 +1676,7 @@ cpj.org
 |http://cq99.us
 crackle.com
 ||crackle.com
+.crazys.cc
 ||crchina.org
 crd-net.org
 creaders.net
@@ -1681,6 +1691,8 @@ csdparty.com
 ||csdparty.com
 ||csuchen.de
 .csw.org.uk
+.ct.org.tw
+||ct.org.tw
 .ctao.org
 .ctfriend.net
 .ctitv.com.tw
@@ -1782,8 +1794,6 @@ cn.dayabook.com
 dcmilitary.com
 .ddc.com.tw
 .ddhw.info
-!--ChangeIP
-.ddns.ms
 ddns.net
 ||de-sci.org
 .de-sci.org
@@ -2306,6 +2316,7 @@ free-gate.org
 free-proxy.cz
 .free.fr/adsl
 kineox.free.fr
+tibetlibre.free.fr
 ||freealim.com
 whitebear.freebearblog.org
 ||freebrowser.org
@@ -3486,6 +3497,7 @@ jeanyim.com
 ||hk.jiepang.com
 ||tw.jiepang.com
 jieshibaobao.com
+.jigglegifs.com
 56cun04.jigsy.com
 jigong1024.com
 daodu14.jigsy.com
@@ -3981,6 +3993,8 @@ wiki.moegirl.org
 ||mog.com
 molihua.org
 ||mondex.org
+.money-link.com.tw
+|http://money-link.com.tw
 |http://www.monlamit.org
 .moonbbs.com
 ||moonbbs.com
@@ -4123,6 +4137,7 @@ nccwatch.org.tw
 .ndr.de
 .ned.org
 ||nekoslovakia.net
+||nepusoku.com
 !--bbsnew.netbig.com
 bbs.netbig.com
 .netbirds.com
@@ -4869,6 +4884,8 @@ savetibet.nl
 .savetibet.org
 ||savetibet.org
 savetibet.ru
+.savetibetstore.org
+||savetibetstore.org
 savevid.com
 ||say2.info
 .sbme.me
@@ -6218,6 +6235,7 @@ fq.wikia.com
 cn.uncyclopedia.wikia.com
 zh.uncyclopedia.wikia.com
 ||wikileaks.ch
+||wikileaks.com
 ||wikileaks.de
 ||wikileaks.eu
 ||wikileaks.lu
