@@ -22,7 +22,7 @@
 		],
 		"google_cn": [
 			"www.g.cn",
-			"www.google.cn"
+			"www.google.cn",
 		]
 	},
 	"SiteToAlias": {
@@ -68,6 +68,10 @@
 		"www.google.com/maps",
 		"www.google.com/patents",
 		"youtube.googleapis.com",
+	],
+	"ForceBrotli": [
+		"www.google.com",
+		"www.youtube.com",
 	],
 	"TLSConfig": {
 		"Version": "TLSv1.2",
